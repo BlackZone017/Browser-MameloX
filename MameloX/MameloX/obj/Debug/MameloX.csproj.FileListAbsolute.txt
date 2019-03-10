@@ -1,0 +1,10 @@
+C:\Users\gouripc\Source\Repos\MameloX\MameloX\bin\Debug\MameloX.exe.config
+C:\Users\gouripc\Source\Repos\MameloX\MameloX\bin\Debug\MameloX.exe
+C:\Users\gouripc\Source\Repos\MameloX\MameloX\bin\Debug\MameloX.pdb
+C:\Users\gouripc\Source\Repos\MameloX\MameloX\obj\Debug\MameloX.csprojAssemblyReference.cache
+C:\Users\gouripc\Source\Repos\MameloX\MameloX\obj\Debug\MameloX.Form1.resources
+C:\Users\gouripc\Source\Repos\MameloX\MameloX\obj\Debug\MameloX.Properties.Resources.resources
+C:\Users\gouripc\Source\Repos\MameloX\MameloX\obj\Debug\MameloX.csproj.GenerateResource.cache
+C:\Users\gouripc\Source\Repos\MameloX\MameloX\obj\Debug\MameloX.csproj.CoreCompileInputs.cache
+C:\Users\gouripc\Source\Repos\MameloX\MameloX\obj\Debug\MameloX.exe
+C:\Users\gouripc\Source\Repos\MameloX\MameloX\obj\Debug\MameloX.pdb
